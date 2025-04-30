@@ -53,7 +53,25 @@ We used full fine-tuning to test the pre-trained model on five downstream tasks.
   <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/downstream_tasks_visualization" alt="downstream_tasks_visualization"/>
 </p> 
 
+## Acknowledgement 
+[[MAE](https://github.com/facebookresearch/mae)] 
 
+## Citation 
+
+If you find this work helps your research, please cite the following paper and give us a star. 
+```bibtex
+@misc{wu2025cm3ae,
+      title={CM3AE: A Unified RGB Frame and Event-Voxel/-Frame Pre-training Framework}, 
+      author={Wu, Wentao and Wang, Xiao and Li, Chenglong and Jiang, Bo and Tang, Jin and Luo, Bin and Liu, Qi},
+      year={2025},
+      eprint={2504.12576},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
+
+if you have any problems with this work, please leave an issue. 
 
 
 
