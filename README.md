@@ -16,9 +16,9 @@ Configure the environment according to the content of the requirements.txt file.
 
 ## Pre-trained Model Download
 
-Baidu Netdisk Link ：[download]()
+Baidu Netdisk Link ：[download](https://pan.baidu.com/s/1rR9H6fmrbMBL8jf5LwC9Hw?pwd=ytje)
 
-Extracted code ：
+Extracted code ：ytje
 
 ## Training
 
