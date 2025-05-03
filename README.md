@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node
 We used full fine-tuning to test the pre-trained model on five downstream tasks. The results are shown in the table below. 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/result.jpg" alt="result"/>
+  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/result.png" alt="result"/>
 </p> 
 
 
