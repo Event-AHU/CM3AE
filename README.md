@@ -50,7 +50,7 @@ We used full fine-tuning to test the pre-trained model on five downstream tasks.
 </p> 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/downstream_tasks_visualization" alt="downstream_tasks_visualization"/>
+  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/downstream_tasks_visualization.jpg" alt="downstream_tasks_visualization"/>
 </p> 
 
 ## Acknowledgement 
