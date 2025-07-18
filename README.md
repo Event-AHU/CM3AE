@@ -18,15 +18,25 @@ Event cameras have attracted increasing attention in recent years due to their a
   <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/firstIMG.jpg" alt="firstIMG"/>
 </p> 
 
+
+
 ## Environment Setting 
 
 Configure the environment according to the content of the requirements.txt file.
+
+
 
 ## Pre-trained Model Download
 
 Baidu Netdisk Link ：[download](https://pan.baidu.com/s/1rR9H6fmrbMBL8jf5LwC9Hw?pwd=ytje)
 
 Extracted code ：ytje
+
+
+<p align="center">
+  <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/framework_new.jpg" alt="result"/>
+</p> 
+
 
 ## Training
 
@@ -43,22 +53,22 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 python -m torch.distributed.launch --nproc_per_node
 We used full fine-tuning to test the pre-trained model on five downstream tasks. The results are shown in the table below. 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/result.png" alt="result"/>
+  <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/result.png" alt="result"/>
 </p> 
 
 
 ## Visual Results 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/reconst_vis.jpg" alt="reconst_vis"/>
+  <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/reconst_vis.jpg" alt="reconst_vis"/>
 </p> 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/attentionmaps.jpg" alt="attentionmaps"/>
+  <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/attentionmaps.jpg" alt="attentionmaps"/>
 </p> 
 
 <p align="center">
-  <img width="80%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/downstream_tasks_visualization.jpg" alt="downstream_tasks_visualization"/>
+  <img width="100%" src="https://github.com/Event-AHU/CM3AE/blob/main/figures/downstream_tasks_visualization.jpg" alt="downstream_tasks_visualization"/>
 </p> 
 
 ## Acknowledgement 
